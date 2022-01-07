@@ -11,7 +11,13 @@ This is the first large script that allows you to quickly get information from t
 
 # Установка
 
-``` git clone https://github.com/xtr-root/GDIT.git
+``` 
+    git clone https://github.com/xtr-root/GDIT.git
     cd GDIT
     python -m pip install -U gd.py
     pip3 install colorama pyfiglet time requests
+```
+
+# Автор
+
+Если у вас есть проблемы с установкой, пишите мне в Discord. = stell-dj#2139
